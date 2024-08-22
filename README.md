@@ -22,7 +22,8 @@ The project is divided into three main files:
    - It includes methods to return the question, return the list of options, and check if the user's answer is correct.
 
 3. **Quiz.java**
-   - This is the core class that manages the quiz logic. It:
+   - This is the core class that manages the quiz logic.
+   - It contains of the following:
      - Stores a list of questions.
      - Displays questions to the user.
      - Captures the user's answers and checks their correctness.
