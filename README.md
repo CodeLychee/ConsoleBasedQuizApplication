@@ -33,7 +33,7 @@ The project is divided into three main files:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/quiz-application.git
+   git clone https://github.com/CodeLychee/quiz-application.git
    ```
    
 2. **Compile the Java files**:
